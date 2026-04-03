@@ -1,5 +1,6 @@
-backend/venv/
+venv/
 .venv/
+backend/venv/
 __pycache__/
 *.pyc
-.env
+training/lora-output/
